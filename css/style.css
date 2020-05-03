@@ -1,4 +1,16 @@
-h1 {
-color: purple;
-text-align: center;
-}
+body {text-align:center;}
+
+.wrapper {background-color:blue;
+          width:40em;
+          text-align:left;
+          margin-left: auto;
+          margin-right: auto;}
+
+.sidebar {background-color:red;
+          padding:8px;
+          width:200px;
+          float:left;}
+
+.article {background-color:white;
+          padding:8px;
+          margin-left:216px;}
