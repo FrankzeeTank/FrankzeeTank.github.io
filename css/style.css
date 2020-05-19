@@ -1,5 +1,11 @@
 body {text-align:center;}
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+
 .wrapper {background-color:blue;
           width:40em;
           text-align:left;
