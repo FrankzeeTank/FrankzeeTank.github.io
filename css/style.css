@@ -3,7 +3,10 @@ body {
   overflow: hidden;}
 
 .wrapper {background-color:blue;
-  max-width:800px;}
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;}
 
 .article {background-color:white;
-  padding:8px;}
+  padding: 10px;}
