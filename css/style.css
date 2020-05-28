@@ -3,7 +3,7 @@ body {
   overflow: hidden;}
 
 .wrapper {background-color:blue;
-          max-width:500px;
+  max-width:800px;}
 
 .article {background-color:white;
   padding:8px;}
